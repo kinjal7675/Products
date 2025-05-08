@@ -1,16 +1,54 @@
-# demo
 
-A new Flutter project.
+# Product List Demo 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Getting Started 🤖
 
-A few resources to get you started if this is your first Flutter project:
+- Sample project which contains Product Listing & Detail.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Feature set 🔥
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ✅ Product Listing
+- ✅ Product Detail 
+- ✅ Share Sheet
+- ✅ Full Screen Image View
+
+## Featured Video 
+- 
+
+## What We used 💪
+
+- [Bloc](https://pub.dev/packages/flutter_bloc) for State Management.
+
+## Platform 📦
+
+- ✅ Android
+- ✅ iOS
+
+## How to run this project ❓
+
+### Use Flutter
+
+Get dependencies
+
+```bash
+flutter pub get
+```
+
+for assets gen
+```bash
+dart run build_runner build  
+```
+
+Run
+
+```bash
+flutter run 
+```
+ 
+
+[license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
+[license_link]: LICENSE
+[very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
+[very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
+
